@@ -2,3 +2,5 @@
 .mvn/*
 mvnw*
 boot.iml
+data/*
+target/*
